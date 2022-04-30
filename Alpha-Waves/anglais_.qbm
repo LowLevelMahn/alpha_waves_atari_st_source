@@ -1,0 +1,185 @@
+#MENU	0
+#TITLE	Main Menu
+#TITLE	 
+Action 1 Player
+Action 2 Players
+Emotion
+Help / Demonstration
+Top Scores
+Load a Game
+Quit Alpha Waves
+Player 1 : Joystick 1
+	Player 1 : Joystick 2
+	Player 1 : Keyboard
+Player 2 : Joystick 1
+	Player 2 : Joystick 2
+	Player 2 : Keyboard
+#END
+
+#MENU	1
+#TITLE	Options
+#TITLE	 
+Return to Current Game
+Load Memory
+Save Game
+Sound On
+	Sound Off
+Filled Ground
+	Vector Ground
+Filled Forms
+	Wire Forms
+Unlock Mobile
+	Lock Mobile
+Unlock Camera
+	Lock Camera
+Camera Slant On
+	Camera Vertical
+Camera View
+	Mobile View
+Mobiles
+Display Map
+Quit Game
+#END
+
+#DISPLAY	0
+Return to abort or ESC
+High Scores
+You won - Bonus 1,000,000
+#END
+
+#DISPLAY	1
+- Dream -
+- Energize -
+- Relax -
+- Adapt -
+- Awaken -
+- Develop -
+- Stimulate -
+- Motivate -
+- Concentrate -
+- Stamina -
+- Orientate -
+- Meditate -
+#END
+
+#MENU	C
+#TITLE	Disk Error while loading
+#TITLE	Please Check Disk...
+#TITLE	 
+Retry
+Return to Main Menu
+#END
+
+#MENU	S
+#TITLE	Disk Error while saving
+#TITLE	Please Check that Disk
+#TITLE	is not write protected.
+#TITLE	 
+Retry
+Return to Current Game
+#END
+
+
+#MENU	L
+#TITLE	Saved Games:
+#TITLE	 
+<< Cancel Operation >>
+Fichier0
+Fichier1
+Fichier2
+Fichier3
+Fichier4
+Fichier5
+Fichier6
+Fichier7
+Fichier8
+Fichier9
+FichierA
+FichierB
+FichierC
+FichierD
+FichierE
+FichierF
+#END
+
+#DISPLAY	S
+Save Current Game
+
+Insert a formatted disk in drive,
+and enter a 8 character name.
+No name to save in memory.
+
+#END
+
+
+#DISPLAY	I
+Congratulations, Player 1.
+You made one of today's highest
+scores. Please enter your name.
+
+#END
+
+#DISPLAY	J
+Congratulations, Player 2.
+You made one of today's highest
+scores. Please enter your name.
+
+#END
+
+#DISPLAY	H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIGH SCORES
+
+
+
+#END
+
+#DISPLAY	M
+                          
+------------- Alpha Waves -------------
+Game written by Christophe de Dinechin
+(C) 1990 Infogrames.
+
+"Alpha Waves is a completely New Age experience where the pleasure of play blends with feelings and dreams.
+Set off on a voyage of discovery, adrift on a shimmering tide of wave and colour.
+Light years away from material concerns, remodel your perceptions in a universe of perpetually shifting illusion.
+A number of programs are available to you, from relaxation to hyper-wakefulness.
+Each module associates visual stimuli and sound to provide a wide range of unexplored emotions.
+The vibrations from Alpha Waves are born of colours and sound waves.
+They Shape emotional states and raise awareness to undiscovered heights.
+Alpha Waves offers you an opportunity to experience fresh sensations.
+Enter virtual reality..."
+( From Alpha Waves V12 Manual, (C) 2012 Infogrames )
+
+Credits:
+Author: Christophe de Dinechin
+Graphics: Frederick Raynal and Christophe de Dinechin
+Colouring: Philippe Ponticelli
+Music: Frederic Mentzen (1024K or more. Try on STE...)
+
+Infogrames would particularily like to thank monsieur Serge Chagnoleau of Brain Building for his theoretical and practical help on brain waves and chromatic research.
+
+#END
+
+#DISPLAY	X
+Program protection
+
+Find in manual word at
+Page ..
+Paragraph .
+Word .
+#END

@@ -1,0 +1,179 @@
+#MENU	0
+#TITLE	MENU PRINCIPAL
+#TITLE	 
+ACCION - 1 JUGADOR
+ACCION - 2 JUGADORES
+EMOCION
+GUIA/DEMO
+MEJOR PUNTUACION
+CARGAR UNA PARTIDA
+SALIR
+JUGADOR 1: JOYSTICK 1
+	JUGADOR 1: JOYSTICK 2
+	JUGADOR 1: TECLADO
+JUGADOR 2: JOYSTICK 1
+	JUGADOR 2: JOYSTICK 2
+	JUGADOR 2: TECLADO
+#END
+
+#MENU	1
+#TITLE	OPCIONES
+#TITLE	 
+VOLVER A LA PARTIDA
+RECUPERAR POSICION
+SALAVAR PARTIDA
+CON SONIDO
+	SIN SONIDO
+FONDO OPACO
+	FONDO TRANSPARENTE
+FORMAS LLENAS
+	FORMAS LINEARES
+OBJETO LIBRE
+	CENTRAR OBJETO
+CAMARA LIBRE
+	CENTRAR CAMARA
+INCLINACION DE LA CAMARA
+	CAMARA VERTICAL
+VISTA DESDE LA CAMARA
+	VISTA DESDE EL OBJETO
+ELEGIR OBJETO
+MAPA
+ABANDONAR PARTIDA
+#END
+
+#DISPLAY	0
+RETURN PARA ABANDONAR (si no ESC)
+MEJOR PUNTUACION
+BONUS 1.000.000
+#END
+
+#DISPLAY	1
+- SUENO -
+- ACUMULATION DE ENERGIA -
+- RELAJAMIENTO -
+- ADAPTACION -
+- HYPER VIGILANCIA
+- DESARROLLO ESPIRITUAL -
+- ESTIMULO -
+- MOTIVACION -
+- CONCENTRACION -
+- RESISTENCIA -
+- ORIENTACION -
+- MEDITACION -
+#END
+
+#MENU	C
+#TITLE	ERROR DE CARGAMENTO
+#TITLE	VERIFICAR EL DISCO
+#TITLE	 
+VOLVER A HACERLO
+RETORNO AL MENU PRINCIPAL 
+#END
+
+#MENU	S
+#TITLE	ERROR DE SALVAGUARDIA
+#TITLE	EL DISCO ESTA 
+#TITLE	PROTEGIDO ?
+#TITLE	 
+VOLVER A HACERLO
+VOLVER A LA PARTIDA
+#END
+
+
+#MENU	L
+#TITLE	PARTIDA SALVADA:
+#TITLE	 
+<< ABANDONAR >>
+Fichero0
+Fichero1
+Fichero2
+Fichero3
+Fichero4
+Fichero5
+Fichero6
+Fichero7
+Fichero8
+Fichero9
+FicheroA
+FicheroB
+FicheroC
+FicheroD
+FicheroE
+FicheroF
+#END
+
+#DISPLAY	S
+SALVAR PARTIDA:
+
+Introduzca un disco en el
+lector, y escribar un nombre
+de 8 letras maximo.
+Sin nombre
+
+#END
+
+#DISPLAY	I
+Felicitaciones, Jugador 1:
+Usted ha realizado uno de los
+mas altos puntajes. Escriba 
+por favor su nombre.
+
+#END
+
+#DISPLAY	J
+Felicitaciones, Jugador 2:
+Usted ha realizado uno de los
+mas altos puntajes. Escriba 
+por favor su nombre.
+
+#END
+
+#DISPLAY	H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabla de Puntajes
+
+
+
+#END
+
+
+#DISPLAY	M
+                                    ------- Alpha Waves --------
+Juego concebido y realizado por Christophe de Dinechin
+(C) 1990 Infogrames 
+
+Autor: Christophe de Dinechin
+Grafistas: Christophe de Dinechin, Frederick Raynal
+Colores: Philippe Ponticelli
+Sonido: Frederic Mentzen
+
+#END
+
+#DISPLAY	X
+PROTECCION
+TECLEE LA PALABRA DEL MANUAL:
+PAGINA ..
+PARRAFO .
+PALABRA .
+
+#END
+
+
+#DISPLAY
+
+ERROR DE SALVAGUARDIA
+
+#END

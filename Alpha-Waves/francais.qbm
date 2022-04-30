@@ -1,0 +1,186 @@
+#MENU	0
+#TITLE	Menu Principal
+#TITLE	 
+Arcade 1 joueur
+Arcade 2 joueurs
+Emotion
+Guide/Demonstration
+Les Meilleurs Scores
+Charger une Partie
+Quitter Alpha Waves
+Joueur 1: Joystick 1
+	Joueur 1: Joystick 2
+	Joueur 1: Clavier
+Joueur 2: Joystick 1
+	Joueur 2: Joystick 2
+	Joueur 2: Clavier
+#END
+
+#MENU	1
+#TITLE	Options
+#TITLE	 
+Retour partie en cours
+Rappel m‚moire
+Sauvegarde de Partie
+Bruitages Actifs
+	Pas de Bruitages
+Plancher Opaque
+	Plancher Transparent
+Formes Pleines
+	Fil de Fer
+Centrage Horizontal Auto.
+	Centrage Horizontal Manuel
+Centrage Vertical Auto.
+	Centrage Vertical Manuel
+Inclinaison de Cam‚ra
+	Pas d'Inclinaison de Cam‚ra
+Vue de la Cam‚ra
+	Vue du Mobile
+Choix du Mobile
+Afficher la Carte
+Quitter la partie
+#END
+
+#DISPLAY	0
+RETURN pour Quitter (sinon ESC)
+Liste des Meilleurs Scores
+Gagn‚ - Bonus 1.000.000
+#END
+
+#DISPLAY	1
+- Rˆve -
+- Accumulation d'‚nergie -
+- D‚contraction -
+- Adaptation -
+- Hyper-vigilance -
+- Developpement Spirituel -
+- Stimulation -
+- Motivation -
+- Concentration -
+- R‚sistance -
+- Orientation -
+- M‚ditation -
+#END
+
+#MENU	C
+#TITLE	Erreur de chargement
+#TITLE	V‚rifiez la disquette.
+#TITLE	 
+Recommencer
+Retour au Menu Principal
+#END
+
+#MENU	S
+#TITLE	Erreur de Sauvegarde
+#TITLE	La disquette est-elle
+#TITLE	prot‚g‚e ?
+#TITLE	 
+Recommencer
+Retour … la partie en cours
+#END
+
+
+#MENU	L
+#TITLE	Sauvegardes disponibles
+#TITLE	 
+<< Abandonner >>
+Fichier0
+Fichier1
+Fichier2
+Fichier3
+Fichier4
+Fichier5
+Fichier6
+Fichier7
+Fichier8
+Fichier9
+FichierA
+FichierB
+FichierC
+FichierD
+FichierE
+FichierF
+#END
+
+
+#DISPLAY	S
+Sauvegarde de la partie en cours:
+
+Introduisez une disquette dans
+le lecteur, puis entrez un nom
+de 8 lettres au plus.
+Un nom vide sauve en m‚moire.
+
+#END
+
+#DISPLAY	I
+F‚licitations, Joueur 1:
+Vous avez r‚alis‚ un des plus hauts
+scores aujourd'hui. Veuillez taper
+votre nom s'il vous plaŒt.
+
+#END
+
+#DISPLAY	J
+F‚licitations, Joueur 2:
+Vous avez r‚alis‚ un des plus hauts
+scores aujourd'hui. Veuillez taper
+votre nom s'il vous plaŒt.
+
+#END
+
+#DISPLAY	H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tableau des Scores
+
+
+
+#END
+
+
+#DISPLAY	M
+                             ------- Alpha Waves --------
+Jeu con‡u et r‚alis‚ par Christophe de Dinechin
+(C) 1990 Infogrames 
+
+"Alpha Waves est un jeu 100% New Age, o— le plaisir de jouer s'associe aux ‚motions et aux rˆves.
+Embarquez pour un voyage enchanteur au gr‚ des ondes et des couleurs.
+Loin des contingences mat‚rielles, tournoyez … en perdre la tˆte dans un univers d'illusion.
+De la relaxation … l'hyper-vigilance, chacun des 12 programmes associe des stimulis visuels et sonores, .
+Leurs principes actifs vous promettent une gamme trŠs large d'‚motions jusqu'alors insoup‡onn‚es.
+Les vibrations d'Alpha Waves conditionnent les ‚tats ‚motionnels et ‚lŠvent la conscience.
+Alpha Waves vous offre l'occasion exceptionnelle d'enrichir vos sensations.
+Go–tez … la r‚alit‚ virtuelle..."
+( Extrait du Manuel d'Alpha Waves V12 (C) 2012 Infogrames )
+
+Auteur: Christophe de Dinechin
+Graphiques: Frederick Raynal et Christophe de Dinechin
+Couleurs: Philippe Ponticelli
+Musique: Frederic Mentzen (1024K de m‚moire. Ecoutez la sur STE...)
+
+Infogrames tient a remercier particulierement Monsieur Serge Chagnoleau de Brain Building pour son aide theorique et pratique sur les ondes mentales et la recherche chromatique
+
+
+#END
+
+#DISPLAY	X
+Protection du programme
+
+Trouvez dans le manuel le mot
+Page ..
+Paragraphe .
+Mot .
+#END

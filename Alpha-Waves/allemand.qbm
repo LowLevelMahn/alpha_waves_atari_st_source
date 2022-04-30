@@ -1,0 +1,175 @@
+#MENU	0
+#TITLE	HauptmenÅ
+#TITLE	 
+Action - 1 Spieler
+Action - 2 Spieler
+Emotion
+Lehrer / Demo
+Die besten Scores
+Eine Partie Laden
+Program beenden
+Spieler 1: Joystick 1
+	Spieler 1: Joystick 2
+	Spieler 1: Tastatur
+Spieler 2: Joystick 1
+	Spieler 2: Joystick 2
+	Spieler 2: Tastatur
+#END
+
+#MENU	1
+#TITLE	Optionen
+#TITLE	 
+ZurÅck zum Spiel
+Letzten Spiel laden
+Partie abspeichern
+GerÑusche ein
+	GerÑusche aus
+Opakes WÅrfel
+	Transparenter WÅrfel
+Volle Formen
+	Drahtformen
+Zentriertes Mobil
+	Freies Mobil
+Kamera schwenkt
+	Vertikale Kamera
+Freie Kamera
+	Zentrierte Kamera
+Kameraansicht
+	Sicht aus Mobil
+Wahl des Mobils
+Karte sehen
+Partie beenden
+#END
+
+#DISPLAY	0
+RETURN = Beenden (sonst ESC)
+High-Score-Liste
+Gewonnen - Bonus 1.000.000
+#END
+
+#DISPLAY	1
+- Traum -
+- Energieaufbau -
+- Entspannung -
+- Anpassung -
+- Wachsamkeit -
+- Spirituelle Entwicklung -
+- Stimulation -
+- Motivierung -
+- Konzentration -
+- Widerstand -
+- Orientierung -
+- Meditation -
+#END
+
+#MENU	C
+#TITLE	Partie kann nicht geladen
+#TITLE	werden.
+#TITLE	 
+Wieder versuchen
+ZurÅck zum HauptmenÅ
+#END
+
+#MENU	S
+#TITLE	Disk kann nicht beschrieben
+#TITLE	werden. Ist Disk vor
+#TITLE	SchreibgeschÅtzt ?
+#TITLE	 
+Wieder versuchen
+ZurÅck zur Partie
+#END
+
+#MENU	L
+#TITLE	VerfÅgbare Partien
+#TITLE	 
+<< Nichts Laden >>
+Fichier0
+Fichier1
+Fichier2
+Fichier3
+Fichier4
+Fichier5
+Fichier6
+Fichier7
+Fichier8
+Fichier9
+FichierA
+FichierB
+FichierC
+FichierD
+FichierE
+FichierF
+#END
+
+
+#DISPLAY	S
+Partie Wird abspeichert
+
+Diskette einlegen, dam
+Namen eingeben (hîchstens
+8 Zeichen)
+Leerer Name speichert nur.
+ 
+#END
+
+
+#DISPLAY	I
+Bravo, Spieler 1:
+Sie haben einer der besten
+scores von heut erzielt.
+Tippen sie bitte.
+Ihren Namen ein
+#END
+
+#DISPLAY	J
+Bravo, Spieler 2:
+Sie haben einer der besten
+scores von heut erzielt.
+Tippen sie bitte.
+Ihren Namen ein
+
+#END
+
+#DISPLAY	H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Besten Scores
+
+
+
+#END
+
+
+#DISPLAY	M
+                             ------- Alpha Waves --------
+
+(C) 1990 Infogrames
+
+Autor: Christophe de Dinechin
+Graphik: Frederick Raynal et Christophe de Dinechin
+Farben: Philippe Ponticelli
+Musik: Frederic Mentzen
+
+
+#END
+
+#DISPLAY	X
+Kopierschutz
+
+Geben Sie das Wort aus der Anleitung ein
+Seite ..
+Absatz .
+Wort .
+#END

@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    int row = 0, col = 0;
+    uint code;
+
+    for (row = 'A'; row <= 'J'; row++)
+    {
+        for (col = '1'; col <= 8; col++)
+        {
+            read(0, &code, 2);
+            printf("%c%c %d\n", row, col, code);
+        }
+    }
+}

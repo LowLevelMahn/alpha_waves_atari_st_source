@@ -1,0 +1,175 @@
+#MENU	0
+#TITLE	Menu' Principale
+#TITLE	 
+Azione 1 giocatore
+Azione 2 giocatori
+Emozione
+Guida/Dimostrazione
+I migliori punteggi
+Caricare una partita
+Uscire dal programma
+Giocatore 1: Joystick 1
+	Giocatore 1: Joystick 2
+	Giocatore 1: Tastiera
+Giocatore 2: Joystick 1
+	Giocatore 2: Joystick 2
+	Giocatore 2: Tastiera
+#END
+
+#MENU	1
+#TITLE	Opzioni
+#TITLE	 
+Ritorno partita in corso
+Caricamento ultima partita
+Salvaguardia partita
+Effeti Sonori
+	Senza Effeti Sonori
+Fondo Cubo Opaco
+	Fondo Cubo Transparente
+Forme Piene
+	Forme Lineari
+Centratura Automatica
+	Centratura Manuale
+Cinepresa Libera
+	Cinepresa Centrata
+Cinepresa Verticale
+	Inclinazione Cinepresa
+Vista della camera
+	Vista dalla forma mobile
+Tipo di forma mobile
+Visualizzazione carta
+Uscire alla Partita
+#END
+
+#DISPLAY	0
+RETURN per uscire (altrimenti	ESC)
+I Migliori Punteggi
+Hai vinto 1.000.000
+#END
+
+#DISPLAY	1
+- Sogno -
+- Accumulo d'energia -
+- Distensione -
+- Adattamento -
+- Supervigilanza -
+- Sviluppo Spirituale -
+- Stimolazione -
+- Motivazione -
+- Concentrazione -
+- Resistenza -
+- Orientamento -
+- Meditazione -
+#END
+
+#MENU	C
+#TITLE	Errore di caricamento
+#TITLE	Verifica il dischetto.
+#TITLE	 
+Ricominciare
+Tornare al Men— Principale
+#END
+
+#MENU	S
+#TITLE	Errore di Salvataggio
+#TITLE	Dischetto protetto
+#TITLE	 
+#TITLE	 
+Ricominciare
+Tornare alla partita in corso
+#END
+
+#DISPLAY	S
+Salvataggio della partita in corso:
+
+Inserire un dischetto nel drive,
+poi digitare un nome (8 lettere al 
+massimo).
+Un nome vuoto memorizza la partita.
+
+#END
+
+
+#MENU	L
+#TITLE	Salvaguardie disponibili
+#TITLE	 
+<< Abbandonare >>
+Fichier0
+Fichier1
+Fichier2
+Fichier3
+Fichier4
+Fichier5
+Fichier6
+Fichier7
+Fichier8
+Fichier9
+FichierA
+FichierB
+FichierC
+FichierD
+FichierE
+FichierF
+#END
+
+
+
+#DISPLAY	I
+Bravo, Giocatore 1:
+Hai realizado un di migliori
+punteggi oggi. Digita il tuo 
+nome, per favore
+#END
+
+#DISPLAY	J
+Bravo, Giocatore 2:
+Hai realizado un di migliori
+punteggi oggi. Digita il tuo 
+nome, per favore
+
+#END
+
+#DISPLAY	H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elenco dei Punteggi
+
+
+
+#END
+
+
+#DISPLAY	M
+                                        ------- Alpha Waves --------
+(C) 1990 Infogrames
+
+
+Autore: Christophe de Dinechin
+Graphica: Frederick Raynal et Christophe de Dinechin
+Colori: Philippe Ponticelli
+Musica: Frederic Mentzen
+
+
+
+#END
+
+#DISPLAY	X
+Protezione
+
+Digitare la parola del manuale
+Pagina ..
+Paragrafo .
+Parola .
+#END 
